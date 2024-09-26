@@ -1,0 +1,6 @@
+numpy
+pandas
+pandas pymongo
+seaborn
+jupyter
+Flask
