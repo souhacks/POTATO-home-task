@@ -60,7 +60,7 @@ cd POTATO-Home_Task
 ### 4. Load Data into MongoDB
 - Run the script to ingest the tweet data from the TSV file into MongoDB:
   ```bash
-  python ingest_data.py
+  python queries.py
   ```
 
 ### 5. Run the Flask API
